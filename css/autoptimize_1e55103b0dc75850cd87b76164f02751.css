@@ -50141,7 +50141,7 @@ li.fancybox-thumbs-loading {
   }
   body header#top #logo img,
   #header-outer[data-permanent-transparent="false"] #logo .dark-version {
-    height: 24px !important;
+    height: 42px !important;
     margin-top: -3px !important;
     top: 3px;
     position: relative;
@@ -68614,7 +68614,7 @@ body.single-product div.product .product_title {
 @media only screen and (max-width: 1000px) {
   body header#top #logo img,
   #header-outer[data-permanent-transparent="false"] #logo .dark-version {
-    height: 24px !important;
+    height: 42px !important;
   }
   body:not(.material) header#top .col.span_9 {
     min-height: 50px;
